@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeApp</string>
+    <string name="counter">0</string>
+    <string name="click_me_button">Click me for toast!</string>
+    <string name="second_button">Count</string>
+    <string name="random_number_instruction">Here is a random number between 0 and %1d</string>
+    <string name="random_number">Click for random number</string>
+    <string name="random_number_launcher">Random Number</string>
+</resources>
